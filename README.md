@@ -44,7 +44,3 @@ accuracy                           0.46       200
 Model, eğitildiği veriyi ve tahminleri CSV formatında kaydetti. Dosya adı: **13-06-2024_health_predictions.csv**
 
 ---
-
-Bu readme dosyası, sağlık alanında sentetik veri üretimi ve makine öğrenimi modeli eğitimi sürecinizi anlatan temel bilgileri içermektedir. Detaylı bir teknik inceleme yapmak isteyenler için modelin başarımları ve kullanılan adımlar hakkında kısa ve öz bilgi sunmaktadır.
-
-İlerleyen zamanlarda modelinizi geliştirmek için farklı yöntemler deneyebilir veya veri setinizi genişletebilirsiniz. Bu readme dosyası, projenizi anlamak ve yeniden kullanmak isteyenler için yararlı bir kaynak olacaktır.
